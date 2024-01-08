@@ -1,3 +1,3 @@
 # My-restaurant
 
-![Wireframe](../home/ragadkatout/prep-project/My-restaurant/WireFrame1.png)
+![Wireframe](https://github.com/Raghadkatout08/My-restaurant/edit/wireframe/README.md)
